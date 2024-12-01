@@ -1,5 +1,5 @@
 def load_input():
-    file = open('day1/input.txt', 'r')
+    file = open('input.txt', 'r')
     lines = file.read().splitlines()
     return lines
 
